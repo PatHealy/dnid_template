@@ -12,6 +12,6 @@ This is a Jupyter notebook file that will go through using pandas to perform som
 
 ### movie_data_streamlit.py
 
-This is a python file that is meant to be run with Streamlit, a package to deploy simple python data visualizations as web pages. It contains two open-ended exercises using the included `diary.csv` data. 
+This is a python file that is meant to be run with Streamlit, a package to deploy simple python data visualizations as web pages. It contains three exercises using the included `diary.csv` data. 
 
 To run this file, you'll need to run it as a streamlit file in terminal with `streamlit run movie_data_streamlit.py`
